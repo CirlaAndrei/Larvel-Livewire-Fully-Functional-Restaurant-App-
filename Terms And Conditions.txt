@@ -1,0 +1,54 @@
+LICENSE & TERMS OF USE
+PROTECTED CODE - PERSONAL/BUSINESS USE ONLY
+
+This Laravel-based restaurant management system is NOT open source software and is NOT licensed for public use, modification, distribution, or commercial exploitation.
+COPYRIGHT NOTICE
+
+Copyright © 2026 Cirla Andrei. All rights reserved.
+TERMS OF USE
+
+    PROHIBITED ACTIVITIES
+
+        You may NOT use, copy, modify, merge, publish, distribute, sublicense, or sell any portion of this code
+
+        You may NOT deploy this application for your own restaurant or business
+
+        You may NOT use this code as a template or starting point for your own projects
+
+        You may NOT reverse engineer, decompile, or disassemble the software
+
+        You may NOT remove any copyright or proprietary notices
+
+    VIEWING PERMISSION ONLY
+
+        This repository is publicly visible FOR VIEWING/EDUCATIONAL PURPOSES ONLY
+
+        You may view the code to learn about Laravel implementation patterns
+
+        You may not clone, fork, or download this repository for active use
+
+    PERSONAL/BUSINESS PROPERTY
+
+        This code represents proprietary business logic and systems developed specifically for Cirla Andrei
+
+        The architecture, database schema, business workflows, and implementation details are confidential
+
+LEGAL STATEMENT
+
+This software is the exclusive property of [Your Name/Restaurant Name]. Any unauthorized use, reproduction, or distribution without express written permission will constitute copyright infringement and may result in legal action.
+FOR LEGITIMATE INTEREST
+
+If you're interested in:
+
+    A similar system for your restaurant
+
+    Custom development work
+
+    Consulting services
+
+    Code review or audit services
+
+Please contact: cirlaandrei@gmail.com
+GITHUB-SPECIFIC WARNING
+
+This repository exists on GitHub for version control and backup purposes only. The public visibility does NOT constitute a license to use, modify, or distribute this code.
